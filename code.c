@@ -1,4 +1,4 @@
-if ( c == '' )
+if ( c == 'X' )
 {
     printf("satisfied");
 }else
