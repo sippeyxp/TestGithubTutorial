@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Satisfy Survey App</string>
+    <string name="are_you_satisfied">Are you satisfied?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="result_placeholder">Result will be shown here</string>
+    <string name="result_satisfied">Satisfied</string>
+    <string name="result_not_satisfied">Not Satisfied</string>
+</resources>
